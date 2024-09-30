@@ -43,4 +43,5 @@ Prometheus is used to monitor the system through pre-installed daemons on nodes,
 Grafana is a vizualizer that displays metrics as charts or graphs, assembled into a highly customizable dashboard, making it easy to monitor node health. Simply for you to understand, after getting the metrics from the devices, grafana will use that metric to analyze and create a dashboard that visually depicts the metrics necessary for monitoring such as CPU, RAM, disks, IO. operations...
 
 **Result**:
+![image](https://github.com/user-attachments/assets/4d45ff00-ad5f-4c2c-b5d6-16f95466caf6)
 
