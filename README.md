@@ -6,7 +6,7 @@ This dataset consists of more than four hundred thousand handwritten names colle
 
 *Optical Character Recognition (OCR)* utilizes image processing technologies to convert characters on scanned documents into digital forms. It typically performs well in machine printed fonts. However, it still poses a difficult challenges for machines to recognize handwritten characters, because of the huge variation in individual writing styles. Although deep learning is pretty robust to such changes.
 
-**Data Structure**
+**Data Structure**:
 
 This data set is a comprehensive collection of handwritten images and their corresponding text. The data set is divided into 4 distinct sections to facilitate *training, testing, and validation* of machine learning models.
 
@@ -31,6 +31,7 @@ LSTM Layer: Processes the sequence of features to understand context and depende
 Fully Connected (FC) Layer: Produces the final output, predicting the class labels (characters).
 
 **Visulize process**:
+![image](https://github.com/user-attachments/assets/5abd87a6-1dd0-499d-b436-0201deb8f109)
 
 
 **Training**:
